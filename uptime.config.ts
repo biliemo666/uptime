@@ -78,7 +78,7 @@ const workerConfig: WorkerConfig = {
       // `method` should be `TCP_PING` for tcp monitors
       method: 'TCP_PING',
       // `target` should be `host:port` for tcp monitors
-      target: 'mc.mbs.dpdns.org',
+      target: 'mc.mcmbs.dpdns.org',
       tooltip: 'My production server SSH',
       statusPageLink: 'https://example.com',
       timeout: 5000,
