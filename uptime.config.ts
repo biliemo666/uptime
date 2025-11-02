@@ -84,7 +84,7 @@ const workerConfig: WorkerConfig = {
       timeout: 5000,
     },
   ],
-  // [Optional] Notification settings
+  // [Optional] Notification settings1
   notification: {
     // [Optional] Notification webhook settings, if not specified, no notification will be sent
     // More info at Wiki: https://github.com/lyc8503/UptimeFlare/wiki/Setup-notification
